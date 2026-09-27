@@ -104,12 +104,3 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
-
-# Unity project
-/Week1Project/[Ll]ibrary/
-/Week1Project/[Tt]emp/
-/Week1Project/[Oo]bj/
-/Week1Project/[Bb]uild/
-/Week1Project/[Bb]uilds/
-/Week1Project/[Ll]ogs/
-/Week1Project/[Uu]ser[Ss]ettings/
